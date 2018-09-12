@@ -1,0 +1,14 @@
+C:\Users\Víctor\source\repos\ElLagoMusical\Sonidos\bin\Debug\Sonidos.exe.config
+C:\Users\Víctor\source\repos\ElLagoMusical\Sonidos\bin\Debug\Sonidos.exe
+C:\Users\Víctor\source\repos\ElLagoMusical\Sonidos\bin\Debug\Sonidos.pdb
+C:\Users\Víctor\source\repos\ElLagoMusical\Sonidos\obj\Debug\Sonidos.csprojResolveAssemblyReference.cache
+C:\Users\Víctor\source\repos\ElLagoMusical\Sonidos\obj\Debug\Sonidos.csproj.CoreCompileInputs.cache
+C:\Users\Víctor\source\repos\ElLagoMusical\Sonidos\obj\Debug\Sonidos.exe
+C:\Users\Víctor\source\repos\ElLagoMusical\Sonidos\obj\Debug\Sonidos.pdb
+C:\Users\Diego\Desktop\ElLagoMusical\Sonidos\bin\Debug\Sonidos.exe.config
+C:\Users\Diego\Desktop\ElLagoMusical\Sonidos\bin\Debug\Sonidos.exe
+C:\Users\Diego\Desktop\ElLagoMusical\Sonidos\bin\Debug\Sonidos.pdb
+C:\Users\Diego\Desktop\ElLagoMusical\Sonidos\obj\Debug\Sonidos.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\ElLagoMusical\Sonidos\obj\Debug\Sonidos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\ElLagoMusical\Sonidos\obj\Debug\Sonidos.exe
+C:\Users\Diego\Desktop\ElLagoMusical\Sonidos\obj\Debug\Sonidos.pdb
